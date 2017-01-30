@@ -1,4 +1,6 @@
 library(data.table)
+library(ggplot2)
+library(ggrepel)
 
 p8789 <- data.table(read.csv(file = '~/git/DLR/loadprofiles/8789.csv',header = FALSE, col.names = c('profile','timestamp','volts','valid','lock')))
 p1000 <- data.table(read.csv(file = '~/git/DLR/loadprofiles/1000.csv',header = FALSE, col.names = c('profile','timestamp','amps','valid','lock')))
