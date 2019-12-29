@@ -1,0 +1,215 @@
+ID,AreaName,PlaceName,TLC,X,Y,MainPlace,Municipality,District,Province
+12,Orient Hills,Orient Hills,South Durban MLC,30.92,-29.99,Durban,eThekwini,eThekwini,KwaZulu-Natal
+13,Woodhaven,Woodhaven,U,25.06,-29.04,Letsemeng NU,Letsemeng,Xhariep,Free State
+15,Rontree Estate,Rontree Estate,U,25.06,-29.04,Letsemeng NU,Letsemeng,Xhariep,Free State
+16,Sanctuary Gardens,Sanctuary Gardens,U,25.06,-29.04,Letsemeng NU,Letsemeng,Xhariep,Free State
+17,Summerstrand,Summerstrand,Port Elizabeth,25.65,-34,Port Elizaberth,Nelson Mandela Bay,Nelson Mandela Bay,Eastern Cape
+18,Tafelsig,Tafelsig,Central Cape Town MLC,18.64,-34.06,Mitchells Plain,City of Cape Town,City of Cape Town,Western Cape
+20,Makipsvlei,Makipsvlei,U,18.9,-34.35,Betty's Bay,Overstrand,Overberg,Western Cape
+21,Garagapola,Garagapola,U,25.06,-29.04,Letsemeng NU,Letsemeng,Xhariep,Free State
+22,Tambo,Tambo,Queenstown Rural TRC,26.81,-32.13,Tambo,Lukanji,Chris Hani,Eastern Cape
+23,Gasese,Gasese,Bophirima District Council,23.04,-27.11,Ga-Sese,Joe Morolong,John Taolo Gaetsewe,Northern Cape
+24,Qumbu,Qumbu,Qumbu Rural TRC,28.71,-31.09,Mhlontlo NU,Mhlontlo,O.R.Tambo,Eastern Cape
+25,Antioch,Antioch,,30.86,-24.44,Maruleng NU,Maruleng,Mopani,Limpopo
+27,Lotus Park,Lotus Park,South Durban MLC,30.91,-30,Durban,eThekwini,eThekwini,KwaZulu-Natal
+28,Mafefe,Mafefe,Noko-tlou/Fetakgomo RLC,30.11,-24.2,Ga-Mafefe,Lepele-Nkumpi,Capricorn,Limpopo
+35,Cloetesville,Cloetesville,Stellenbosch,18.85,-33.9,Cloetesville,Stellenbosch,Cape Winelands,Western Cape
+36,Manyatseng,Manyatseng,Ladybrand,27.46,-29.17,Manyatseng,Mantsopa,Thabo Mofutsanyane,Free State
+37,Claremont,Claremont,Central Cape Town MLC,18.47,-33.98,Cape Town,City of Cape Town,City of Cape Town,Western Cape
+37,Claremont,Claremont,City Council of Pretoria MLC,28.13,-25.71,Pretoria,City of Tshwane,City of Tshwane,Gauteng
+38,Kwazakhele,Kwazakhele,Port Elizabeth,25.58,-33.87,iBhayi,Nelson Mandela Bay,Nelson Mandela Bay,Eastern Cape
+39,Umlazi AA,Umlazi AA,,30.86,-29.97,Umlazi,eThekwini,eThekwini,KwaZulu-Natal
+40,Sweetwaters,Sweetwaters,,27.88,-26.43,Kanana Park,City of Johannesburg,City of Johannesburg,Gauteng
+42,Helderberg,Helderberg,,18.83,-34.03,Stellenbosch NU,Stellenbosch,Cape Winelands,Western Cape
+43,Sweetwaters,Sweetwaters,,27.88,-26.43,Kanana Park,City of Johannesburg,City of Johannesburg,Gauteng
+44,Umgaga,Umgaga,U,30.45,-30.63,Sidobe,Hibiscus Coast,Ugu,KwaZulu-Natal
+45,Umlazi AA,Umlazi AA,,30.86,-29.97,Umlazi,eThekwini,eThekwini,KwaZulu-Natal
+46,Claremont,Claremont,Central Cape Town MLC,18.47,-33.98,Cape Town,City of Cape Town,City of Cape Town,Western Cape
+46,Claremont,Claremont,City Council of Pretoria MLC,28.13,-25.71,Pretoria,City of Tshwane,City of Tshwane,Gauteng
+47,Walmer Dunes,Walmer Dunes,U,25.06,-29.04,Letsemeng NU,Letsemeng,Xhariep,Free State
+48,Manyatseng,Manyatseng,Ladybrand,27.46,-29.17,Manyatseng,Mantsopa,Thabo Mofutsanyane,Free State
+49,Helderberg,Helderberg,,18.83,-34.03,Stellenbosch NU,Stellenbosch,Cape Winelands,Western Cape
+50,Umlazi AA,Umlazi AA,,30.86,-29.97,Umlazi,eThekwini,eThekwini,KwaZulu-Natal
+51,Umgaga,Umgaga,U,30.45,-30.63,Sidobe,Hibiscus Coast,Ugu,KwaZulu-Natal
+52,Walmer Dunes,Walmer Dunes,U,25.06,-29.04,Letsemeng NU,Letsemeng,Xhariep,Free State
+53,Claremont,Claremont,Central Cape Town MLC,18.47,-33.98,Cape Town,City of Cape Town,City of Cape Town,Western Cape
+53,Claremont,Claremont,City Council of Pretoria MLC,28.13,-25.71,Pretoria,City of Tshwane,City of Tshwane,Gauteng
+54,Tafelsig,Tafelsig,Central Cape Town MLC,18.64,-34.06,Mitchells Plain,City of Cape Town,City of Cape Town,Western Cape
+55,Lotus Park,Lotus Park,South Durban MLC,30.91,-30,Durban,eThekwini,eThekwini,KwaZulu-Natal
+56,Orient Hills,Orient Hills,South Durban MLC,30.92,-29.99,Durban,eThekwini,eThekwini,KwaZulu-Natal
+57,Ivory Park,Ivory Park,Midrand/ Rabie Ridge/ Ivory Pa,28.18,-25.99,Ivory Park,City of Johannesburg,City of Johannesburg,Gauteng
+58,Mafefe,Mafefe,Noko-tlou/Fetakgomo RLC,30.11,-24.2,Ga-Mafefe,Lepele-Nkumpi,Capricorn,Limpopo
+59,Makipsvlei,Makipsvlei,U,18.9,-34.35,Betty's Bay,Overstrand,Overberg,Western Cape
+60,Makipsvlei,Makipsvlei,U,18.9,-34.35,Betty's Bay,Overstrand,Overberg,Western Cape
+61,Tambo,Tambo,Queenstown Rural TRC,26.81,-32.13,Tambo,Lukanji,Chris Hani,Eastern Cape
+62,Tambo,Tambo,Queenstown Rural TRC,26.81,-32.13,Tambo,Lukanji,Chris Hani,Eastern Cape
+63,Ongwediva,Ongwediva,U,15.76,-17.77,,,,
+64,Walvis Bay,Walvis Bay,U,14.48,-22.98,,,,
+65,Windhoek A,Windhoek A,U,17.08,-22.55,,,,
+66,Tafelsig,Tafelsig,Central Cape Town MLC,18.64,-34.06,Mitchells Plain,City of Cape Town,City of Cape Town,Western Cape
+67,Sanctuary Gardens,Sanctuary Gardens,U,25.06,-29.04,Letsemeng NU,Letsemeng,Xhariep,Free State
+68,Umlazi AA,Umlazi AA,,30.86,-29.97,Umlazi,eThekwini,eThekwini,KwaZulu-Natal
+69,Lotus Park,Lotus Park,South Durban MLC,30.91,-30,Durban,eThekwini,eThekwini,KwaZulu-Natal
+70,Orient Hills,Orient Hills,South Durban MLC,30.92,-29.99,Durban,eThekwini,eThekwini,KwaZulu-Natal
+71,Summerstrand,Summerstrand,Port Elizabeth,25.65,-34,Port Elizaberth,Nelson Mandela Bay,Nelson Mandela Bay,Eastern Cape
+72,Helderberg,Helderberg,,18.83,-34.03,Stellenbosch NU,Stellenbosch,Cape Winelands,Western Cape
+73,Rontree Estate,Rontree Estate,U,25.06,-29.04,Letsemeng NU,Letsemeng,Xhariep,Free State
+77,Tambo,Tambo,Queenstown Rural TRC,26.81,-32.13,Tambo,Lukanji,Chris Hani,Eastern Cape
+78,Qumbu,Qumbu,Qumbu Rural TRC,28.71,-31.09,Mhlontlo NU,Mhlontlo,O.R.Tambo,Eastern Cape
+79,Makipsvlei,Makipsvlei,U,18.9,-34.35,Betty's Bay,Overstrand,Overberg,Western Cape
+80,Ivory Park,Ivory Park,Midrand/ Rabie Ridge/ Ivory Pa,28.18,-25.99,Ivory Park,City of Johannesburg,City of Johannesburg,Gauteng
+81,Antioch,Antioch,,30.86,-24.44,Maruleng NU,Maruleng,Mopani,Limpopo
+82,Garagapola,Garagapola,U,25.06,-29.04,Letsemeng NU,Letsemeng,Xhariep,Free State
+83,Gasese,Gasese,Bophirima District Council,23.04,-27.11,Ga-Sese,Joe Morolong,John Taolo Gaetsewe,Northern Cape
+84,Mafefe,Mafefe,Noko-tlou/Fetakgomo RLC,30.11,-24.2,Ga-Mafefe,Lepele-Nkumpi,Capricorn,Limpopo
+85,Windhoek A,Windhoek A,U,17.08,-22.55,,,,
+86,Ongwediva,Ongwediva,U,15.76,-17.77,,,,
+87,Windhoek B,Windhoek B,U,17.08,-22.55,,,,
+88,Walvis Bay,Walvis Bay,U,14.48,-22.98,,,,
+93,Ongwediva,Ongwediva,U,15.76,-17.77,,,,
+94,Walvis Bay,Walvis Bay,U,14.48,-22.98,,,,
+95,Windhoek A,Windhoek A,U,17.08,-22.55,,,,
+96,Windhoek B,Windhoek B,U,17.08,-22.55,,,,
+98,Garagapola,Garagapola,U,25.06,-29.04,Letsemeng NU,Letsemeng,Xhariep,Free State
+100,Antioch,Antioch,,30.86,-24.44,Maruleng NU,Maruleng,Mopani,Limpopo
+101,Gasese,Gasese,Bophirima District Council,23.04,-27.11,Ga-Sese,Joe Morolong,John Taolo Gaetsewe,Northern Cape
+102,Mafefe,Mafefe,Noko-tlou/Fetakgomo RLC,30.11,-24.2,Ga-Mafefe,Lepele-Nkumpi,Capricorn,Limpopo
+103,Tambo,Tambo,Queenstown Rural TRC,26.81,-32.13,Tambo,Lukanji,Chris Hani,Eastern Cape
+104,Mfazazane,Mfazazane,U,25.06,-29.04,Letsemeng NU,Letsemeng,Xhariep,Free State
+105,Bassonia,Bassonia,Southern Johannesburg MLC,28.06,-26.27,Johannesburg,City of Johannesburg,City of Johannesburg,Gauteng
+106,Westridge,Westridge,Central Cape Town MLC,18.6,-34.05,Mitchells Plain,City of Cape Town,City of Cape Town,Western Cape
+107,Greenturf,Greenturf,U,31.03,-29.72,Phoenix,eThekwini,eThekwini,KwaZulu-Natal
+108,Kabega,Kabega,,25.49,-33.94,Port Elizaberth,Nelson Mandela Bay,Nelson Mandela Bay,Eastern Cape
+109,Moreletta Park,Moreletta Park,,28.28,-25.81,Pretoria,City of Tshwane,City of Tshwane,Gauteng
+110,Welgemoed,Welgemoed,Tygerberg MLC,18.61,-33.87,Bellville,City of Cape Town,City of Cape Town,Western Cape
+111,Woodhaven,Woodhaven,U,25.06,-29.04,Letsemeng NU,Letsemeng,Xhariep,Free State
+113,Antioch,Antioch,,30.86,-24.44,Maruleng NU,Maruleng,Mopani,Limpopo
+114,Garagapola,Garagapola,U,25.06,-29.04,Letsemeng NU,Letsemeng,Xhariep,Free State
+115,Gasese,Gasese,Bophirima District Council,23.04,-27.11,Ga-Sese,Joe Morolong,John Taolo Gaetsewe,Northern Cape
+116,Mafefe,Mafefe,Noko-tlou/Fetakgomo RLC,30.11,-24.2,Ga-Mafefe,Lepele-Nkumpi,Capricorn,Limpopo
+117,Mfazazane,Mfazazane,U,25.06,-29.04,Letsemeng NU,Letsemeng,Xhariep,Free State
+118,Tambo,Tambo,Queenstown Rural TRC,26.81,-32.13,Tambo,Lukanji,Chris Hani,Eastern Cape
+120,Greenturf,Greenturf,U,31.03,-29.72,Phoenix,eThekwini,eThekwini,KwaZulu-Natal
+121,Kabega,Kabega,,25.49,-33.94,Port Elizaberth,Nelson Mandela Bay,Nelson Mandela Bay,Eastern Cape
+122,Moreletta Park,Moreletta Park,,28.28,-25.81,Pretoria,City of Tshwane,City of Tshwane,Gauteng
+123,Welgemoed,Welgemoed,Tygerberg MLC,18.61,-33.87,Bellville,City of Cape Town,City of Cape Town,Western Cape
+124,Westridge,Westridge,Central Cape Town MLC,18.6,-34.05,Mitchells Plain,City of Cape Town,City of Cape Town,Western Cape
+125,Woodhaven,Woodhaven,U,25.06,-29.04,Letsemeng NU,Letsemeng,Xhariep,Free State
+1000005,Ikgomotseng,Ikgomotseng,Moddervaal RLC,26.1,-28.73,Ikgomotseng,Masilonyana,Lejweleputswa,Free State
+1000007,Antioch,Antioch,,30.86,-24.44,Maruleng NU,Maruleng,Mopani,Limpopo
+1000008,Garagapola,Garagapola,U,25.06,-29.04,Letsemeng NU,Letsemeng,Xhariep,Free State
+1000009,Gasese,Gasese,Bophirima District Council,23.04,-27.11,Ga-Sese,Joe Morolong,John Taolo Gaetsewe,Northern Cape
+1000010,Ikgomotseng,Ikgomotseng,Moddervaal RLC,26.1,-28.73,Ikgomotseng,Masilonyana,Lejweleputswa,Free State
+1000011,Maconqo,Maconqo,U,23.26,-13.27,,,,
+1000012,Matshana,Matshana,Uthungulu Regional Council,31.83,-28.74,Empangeni,uMhlathuze,Uthungulu,KwaZulu-Natal
+1000013,Mfazazane,Mfazazane,U,25.06,-29.04,Letsemeng NU,Letsemeng,Xhariep,Free State
+1000014,Tambo,Tambo,Queenstown Rural TRC,26.81,-32.13,Tambo,Lukanji,Chris Hani,Eastern Cape
+1000016,Greenturf,Greenturf,U,31.03,-29.72,Phoenix,eThekwini,eThekwini,KwaZulu-Natal
+1000017,Kabega,Kabega,,25.49,-33.94,Port Elizaberth,Nelson Mandela Bay,Nelson Mandela Bay,Eastern Cape
+1000018,Moreletta Park,Moreletta Park,,28.28,-25.81,Pretoria,City of Tshwane,City of Tshwane,Gauteng
+1000019,Westridge,Westridge,Central Cape Town MLC,18.6,-34.05,Mitchells Plain,City of Cape Town,City of Cape Town,Western Cape
+1000022,Matshana,Matshana,Uthungulu Regional Council,31.83,-28.74,Empangeni,uMhlathuze,Uthungulu,KwaZulu-Natal
+1000023,Greenturf,Greenturf,U,31.03,-29.72,Phoenix,eThekwini,eThekwini,KwaZulu-Natal
+1000024,Westridge,Westridge,Central Cape Town MLC,18.6,-34.05,Mitchells Plain,City of Cape Town,City of Cape Town,Western Cape
+1000025,Kabega,Kabega,,25.49,-33.94,Port Elizaberth,Nelson Mandela Bay,Nelson Mandela Bay,Eastern Cape
+1000026,Vlaklaagte,Vlaklaagte,Mkobola,28.87,-25.36,Thembisile NU,Thembisile,Nkangala,Mpumalanga
+1000027,Khayalitsha,Khayalitsha,,18.67,-34.03,Khayelitsha,City of Cape Town,City of Cape Town,Western Cape
+1000028,Dinokana,Dinokana,Central District Council,25.88,-25.45,Dinokana,Ramotshere Moiloa,Ngaka Modiri Molema,North West
+1000029,Driekoppies,Driekoppies,Bochum/ My Darling RLC,28.7,-23.22,Driekopies,Blouberg,Capricorn,Limpopo
+1000029,Driekoppies,Driekoppies,Nkomazi West TRC,31.56,-25.7,Driekoppies,Nkomazi,Ehlanzeni,Mpumalanga
+1000031,Dinokana,Dinokana,Central District Council,25.88,-25.45,Dinokana,Ramotshere Moiloa,Ngaka Modiri Molema,North West
+1000032,Peacetown,Peacetown,,29.74,-28.45,PeaceTown,Emnambithi/Ladysmith,Uthukela,KwaZulu-Natal
+1000033,Khayalitsha,Khayalitsha,,18.67,-34.03,Khayelitsha,City of Cape Town,City of Cape Town,Western Cape
+1000034,Matshana,Matshana,Uthungulu Regional Council,31.83,-28.74,Empangeni,uMhlathuze,Uthungulu,KwaZulu-Natal
+1000035,Vlaklaagte,Vlaklaagte,Mkobola,28.87,-25.36,Thembisile NU,Thembisile,Nkangala,Mpumalanga
+1000036,Driekoppies,Driekoppies,Bochum/ My Darling RLC,28.7,-23.22,Driekopies,Blouberg,Capricorn,Limpopo
+1000036,Driekoppies,Driekoppies,Nkomazi West TRC,31.56,-25.7,Driekoppies,Nkomazi,Ehlanzeni,Mpumalanga
+1000038,Greenturf,Greenturf,U,31.03,-29.72,Phoenix,eThekwini,eThekwini,KwaZulu-Natal
+1000039,Kabega,Kabega,,25.49,-33.94,Port Elizaberth,Nelson Mandela Bay,Nelson Mandela Bay,Eastern Cape
+1000040,Westridge,Westridge,Central Cape Town MLC,18.6,-34.05,Mitchells Plain,City of Cape Town,City of Cape Town,Western Cape
+1000041,La Lucia,La Lucia,Northern Durban MLC,31.05,-29.74,Umhlanga,eThekwini,eThekwini,KwaZulu-Natal
+1000042,Woodhill,Woodhill,U,22.66,-33.93,George NU,George,Eden,Western Cape
+1000049,Greenturf,Greenturf,U,31.03,-29.72,Phoenix,eThekwini,eThekwini,KwaZulu-Natal
+1000050,Kabega,Kabega,,25.49,-33.94,Port Elizaberth,Nelson Mandela Bay,Nelson Mandela Bay,Eastern Cape
+1000051,La Lucia,La Lucia,Northern Durban MLC,31.05,-29.74,Umhlanga,eThekwini,eThekwini,KwaZulu-Natal
+1000052,Westridge,Westridge,Central Cape Town MLC,18.6,-34.05,Mitchells Plain,City of Cape Town,City of Cape Town,Western Cape
+1000053,Woodhill,Woodhill,U,22.66,-33.93,George NU,George,Eden,Western Cape
+1000054,Dinokana,Dinokana,Central District Council,25.88,-25.45,Dinokana,Ramotshere Moiloa,Ngaka Modiri Molema,North West
+1000055,Driekoppies,Driekoppies,Bochum/ My Darling RLC,28.7,-23.22,Driekopies,Blouberg,Capricorn,Limpopo
+1000055,Driekoppies,Driekoppies,Nkomazi West TRC,31.56,-25.7,Driekoppies,Nkomazi,Ehlanzeni,Mpumalanga
+1000056,Khayalitsha,Khayalitsha,,18.67,-34.03,Khayelitsha,City of Cape Town,City of Cape Town,Western Cape
+1000057,Matshana,Matshana,Uthungulu Regional Council,31.83,-28.74,Empangeni,uMhlathuze,Uthungulu,KwaZulu-Natal
+1000059,Peacetown,Peacetown,,29.74,-28.45,PeaceTown,Emnambithi/Ladysmith,Uthukela,KwaZulu-Natal
+1000060,Vlaklaagte,Vlaklaagte,Mkobola,28.87,-25.36,Thembisile NU,Thembisile,Nkangala,Mpumalanga
+1000062,Dinokana,Dinokana,Central District Council,25.88,-25.45,Dinokana,Ramotshere Moiloa,Ngaka Modiri Molema,North West
+1000063,Khayalitsha,Khayalitsha,,18.67,-34.03,Khayelitsha,City of Cape Town,City of Cape Town,Western Cape
+1000064,Matshana,Matshana,Uthungulu Regional Council,31.83,-28.74,Empangeni,uMhlathuze,Uthungulu,KwaZulu-Natal
+1000065,Peacetown,Peacetown,,29.74,-28.45,PeaceTown,Emnambithi/Ladysmith,Uthukela,KwaZulu-Natal
+1000066,Vlaklaagte,Vlaklaagte,Mkobola,28.87,-25.36,Thembisile NU,Thembisile,Nkangala,Mpumalanga
+1000068,Kabega,Kabega,,25.49,-33.94,Port Elizaberth,Nelson Mandela Bay,Nelson Mandela Bay,Eastern Cape
+1000069,Woodhill,Woodhill,U,22.66,-33.93,George NU,George,Eden,Western Cape
+1000071,Woodhill,Woodhill,U,22.66,-33.93,George NU,George,Eden,Western Cape
+1000075,Dinokana,Dinokana,Central District Council,25.88,-25.45,Dinokana,Ramotshere Moiloa,Ngaka Modiri Molema,North West
+1000076,Khayalitsha,Khayalitsha,,18.67,-34.03,Khayelitsha,City of Cape Town,City of Cape Town,Western Cape
+1000077,Matshana,Matshana,Uthungulu Regional Council,31.83,-28.74,Empangeni,uMhlathuze,Uthungulu,KwaZulu-Natal
+1000078,Peacetown,Peacetown,,29.74,-28.45,PeaceTown,Emnambithi/Ladysmith,Uthukela,KwaZulu-Natal
+1000079,Vlaklaagte,Vlaklaagte,Mkobola,28.87,-25.36,Thembisile NU,Thembisile,Nkangala,Mpumalanga
+1000081,Dinokana,Dinokana,Central District Council,25.88,-25.45,Dinokana,Ramotshere Moiloa,Ngaka Modiri Molema,North West
+1000082,Khayalitsha,Khayalitsha,,18.67,-34.03,Khayelitsha,City of Cape Town,City of Cape Town,Western Cape
+1000083,Matshana,Matshana,Uthungulu Regional Council,31.83,-28.74,Empangeni,uMhlathuze,Uthungulu,KwaZulu-Natal
+1000084,Peacetown,Peacetown,,29.74,-28.45,PeaceTown,Emnambithi/Ladysmith,Uthukela,KwaZulu-Natal
+1000085,Vlaklaagte,Vlaklaagte,Mkobola,28.87,-25.36,Thembisile NU,Thembisile,Nkangala,Mpumalanga
+1000087,Woodhill,Woodhill,U,22.66,-33.93,George NU,George,Eden,Western Cape
+1000088,Ga-Nkoane,Ga-Nkoane,,29.77,-24.41,KaMapolaneng,Fetakgomo,Greater Sekhukhune,Limpopo
+1000089,Wattville,Wattville,Benoni,28.3,-26.22,Wattville,Ekurhuleni,Ekurhuleni,Gauteng
+1000092,Matshana,Matshana,Uthungulu Regional Council,31.83,-28.74,Empangeni,uMhlathuze,Uthungulu,KwaZulu-Natal
+1000093,Vlaklaagte,Vlaklaagte,Mkobola,28.87,-25.36,Thembisile NU,Thembisile,Nkangala,Mpumalanga
+1000095,Matshana,Matshana,Uthungulu Regional Council,31.83,-28.74,Empangeni,uMhlathuze,Uthungulu,KwaZulu-Natal
+1000097,Ga-Luka,Ga-Luka,Rustenburg District Council,27.18,-25.5,GaLuka,Rustenburg,Bojanala,North West
+1000098,Vlaklaagte,Vlaklaagte,Mkobola,28.87,-25.36,Thembisile NU,Thembisile,Nkangala,Mpumalanga
+1000099,Wattville,Wattville,Benoni,28.3,-26.22,Wattville,Ekurhuleni,Ekurhuleni,Gauteng
+1000102,Ga-Nkoane,Ga-Nkoane,,29.77,-24.41,KaMapolaneng,Fetakgomo,Greater Sekhukhune,Limpopo
+1000103,Hankey,Hankey,Hankey,24.86,-33.82,Hankey,Kouga,Cacadu,Eastern Cape
+1000104,Ga-Luka,Ga-Luka,Rustenburg District Council,27.18,-25.5,GaLuka,Rustenburg,Bojanala,North West
+1000105,Ga-Nkoane,Ga-Nkoane,,29.77,-24.41,KaMapolaneng,Fetakgomo,Greater Sekhukhune,Limpopo
+1000106,Hankey,Hankey,Hankey,24.86,-33.82,Hankey,Kouga,Cacadu,Eastern Cape
+1000107,Matshana,Matshana,Uthungulu Regional Council,31.83,-28.74,Empangeni,uMhlathuze,Uthungulu,KwaZulu-Natal
+1000108,Vlaklaagte,Vlaklaagte,Mkobola,28.87,-25.36,Thembisile NU,Thembisile,Nkangala,Mpumalanga
+1000109,Wattville,Wattville,Benoni,28.3,-26.22,Wattville,Ekurhuleni,Ekurhuleni,Gauteng
+1000111,Ga-Luka,Ga-Luka,Rustenburg District Council,27.18,-25.5,GaLuka,Rustenburg,Bojanala,North West
+1000112,Ga-Nkoane,Ga-Nkoane,,29.77,-24.41,KaMapolaneng,Fetakgomo,Greater Sekhukhune,Limpopo
+1000113,Hankey,Hankey,Hankey,24.86,-33.82,Hankey,Kouga,Cacadu,Eastern Cape
+1000114,Matshana,Matshana,Uthungulu Regional Council,31.83,-28.74,Empangeni,uMhlathuze,Uthungulu,KwaZulu-Natal
+1000115,Vlaklaagte,Vlaklaagte,Mkobola,28.87,-25.36,Thembisile NU,Thembisile,Nkangala,Mpumalanga
+1000116,Wattville,Wattville,Benoni,28.3,-26.22,Wattville,Ekurhuleni,Ekurhuleni,Gauteng
+1000117,Matsulu,Matsulu,Nelspruit,31.33,-25.51,Matsulu,Mbombela,Ehlanzeni,Mpumalanga
+1000118,Seloshesa,Seloshesa,,26.81,-29.19,Thabanchu,Mangaung,Mangaung,Free State
+1000119,Butterworth,Butterworth,Butterworth,28.22,-32.31,Butterworth,Mnquma,Amathole,Eastern Cape
+1000122,Ga-Luka,Ga-Luka,Rustenburg District Council,27.18,-25.5,GaLuka,Rustenburg,Bojanala,North West
+1000123,Ga-Nkoane,Ga-Nkoane,,29.77,-24.41,KaMapolaneng,Fetakgomo,Greater Sekhukhune,Limpopo
+1000124,Hankey,Hankey,Hankey,24.86,-33.82,Hankey,Kouga,Cacadu,Eastern Cape
+1000125,Matshana,Matshana,Uthungulu Regional Council,31.83,-28.74,Empangeni,uMhlathuze,Uthungulu,KwaZulu-Natal
+1000126,Vlaklaagte,Vlaklaagte,Mkobola,28.87,-25.36,Thembisile NU,Thembisile,Nkangala,Mpumalanga
+1000127,Wattville,Wattville,Benoni,28.3,-26.22,Wattville,Ekurhuleni,Ekurhuleni,Gauteng
+1000128,Matsulu,Matsulu,Nelspruit,31.33,-25.51,Matsulu,Mbombela,Ehlanzeni,Mpumalanga
+1000129,Seloshesa,Seloshesa,,26.81,-29.19,Thabanchu,Mangaung,Mangaung,Free State
+1000130,Butterworth,Butterworth,Butterworth,28.22,-32.31,Butterworth,Mnquma,Amathole,Eastern Cape
+1000132,Dipelaneng,Dipelaneng,U,28.78,-28.61,Maluti A Phofung NU,Maluti a Phofung,Thabo Mofutsanyane,Free State
+1000133,Bophelong,Bophelong,Western Vaal MLC,27.8,-26.69,Bophelong,Emfuleni,Sedibeng,Gauteng
+1000134,Phomolong,Phomolong,Edenvale/ Modderfontein MLC,28.18,-26.04,Tembisa,Ekurhuleni,Ekurhuleni,Gauteng
+1000134,Phomolong,Phomolong,Hennenman,27.08,-28.01,Phomolong,Matjhabeng,Lejweleputswa,Free State
+1000136,Ga-Luka,Ga-Luka,Rustenburg District Council,27.18,-25.5,GaLuka,Rustenburg,Bojanala,North West
+1000137,Ga-Nkoane,Ga-Nkoane,,29.77,-24.41,KaMapolaneng,Fetakgomo,Greater Sekhukhune,Limpopo
+1000138,Hankey,Hankey,Hankey,24.86,-33.82,Hankey,Kouga,Cacadu,Eastern Cape
+1000139,Matshana,Matshana,Uthungulu Regional Council,31.83,-28.74,Empangeni,uMhlathuze,Uthungulu,KwaZulu-Natal
+1000140,Vlaklaagte,Vlaklaagte,Mkobola,28.87,-25.36,Thembisile NU,Thembisile,Nkangala,Mpumalanga
+1000141,Wattville,Wattville,Benoni,28.3,-26.22,Wattville,Ekurhuleni,Ekurhuleni,Gauteng
+1000142,Matsulu,Matsulu,Nelspruit,31.33,-25.51,Matsulu,Mbombela,Ehlanzeni,Mpumalanga
+1000143,Seloshesa,Seloshesa,,26.81,-29.19,Thabanchu,Mangaung,Mangaung,Free State
+1000144,Butterworth,Butterworth,Butterworth,28.22,-32.31,Butterworth,Mnquma,Amathole,Eastern Cape
+1000146,Dipelaneng,Dipelaneng,U,28.78,-28.61,Maluti A Phofung NU,Maluti a Phofung,Thabo Mofutsanyane,Free State
+1000147,Bophelong,Bophelong,Western Vaal MLC,27.8,-26.69,Bophelong,Emfuleni,Sedibeng,Gauteng
+1000148,Phomolong,Phomolong,Edenvale/ Modderfontein MLC,28.18,-26.04,Tembisa,Ekurhuleni,Ekurhuleni,Gauteng
+1000148,Phomolong,Phomolong,Hennenman,27.08,-28.01,Phomolong,Matjhabeng,Lejweleputswa,Free State
+2000002,Matshana,Matshana,Uthungulu Regional Council,31.83,-28.74,Empangeni,uMhlathuze,Uthungulu,KwaZulu-Natal
+2000003,Maconqo,Maconqo,U,23.26,-13.27,,,,
